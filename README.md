@@ -23,11 +23,5 @@ samples, guidance on mobile development, and a full API reference.
  height="400px" width="200px" />
  <img src="https://github.com/rutvik4940/SkyScrapper_app/assets/153794371/3b836dbe-82ae-411f-8b55-905ea3962372"
  height="400px" width="200px" />
-
-
-
 https://github.com/rutvik4940/SkyScrapper_app/assets/153794371/28b20ecb-5c9c-4d49-8c72-0a7515906d09
-
-
- 
 </p>
